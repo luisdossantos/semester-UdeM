@@ -33,7 +33,7 @@ Our study is showcased in the joined *report_fr.pdf*, written in french (sorry).
 <br/>
 
 ## Reference
-© Ioannis Mitliagkas
-University of Montreal, Canada
+© Ioannis Mitliagkas  
+University of Montreal, Canada  
 IFT 6390: Foundations of Machine Learning
 
